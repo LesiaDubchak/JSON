@@ -1,1 +1,13 @@
-
+{
+  "Summary": "The [Market Trading Hours] section is displayed in English after changing any language ",
+  "Severity": "Minor",
+  "STR": [
+          "Navigate to capital.com",
+          "Select any language",
+          "Scroll to the [Карта активности рынков] section on the main page",
+          "Click on the any \"Партнерская программа\" button",
+          "Pay attention to the [Market Trading Hours] section"
+  ]
+"Expected Result": "The [Market Trading Hours] section is displayed in the selected language",
+ "Actual Result": "The [Market Trading Hours] section is displayed in English after changing any language "
+}
